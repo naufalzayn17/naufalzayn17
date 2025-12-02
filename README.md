@@ -3,7 +3,7 @@
   <br/>
   <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3&pause=900&center=true&vCenter=true&width=900&lines=Hello!+I%27m+Dzaky+Naufal+Kardiansyah.;Fresh+Graduate+from+Electrical+Engineering+Sebelas+Maret+University.;Welcome+to+My+GitHub!"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=5&pause=1500&center=true&vCenter=true&width=900&lines=Hello!+I%27m+Dzaky+Naufal+Kardiansyah.;Fresh+Graduate+from+Electrical+Engineering+Sebelas+Maret+University.;Welcome+to+My+GitHub!"
     alt="Hello! I'm Dzaky Naufal Kardiansyah. Fresh Graduate from Electrical Engineering Sebelas Maret University. Welcome to My GitHub!"
   />
 </div>
