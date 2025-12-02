@@ -7,11 +7,6 @@ Fresh graduate Electrical/Mechatronics
 
 ---
 
-## 🔎 Cermin singkat
-- **Builder sistem**: saya tidak berhenti di teori. EV smart charging IoT (MPC + ESP32), sensor banjir, locker RFID, mobile robot, traffic sign recognition—semuanya **prototipe yang jalan**.  
-- **Nyaman di dua dunia**: teknis (kontrol, embedded, CV, MEP, backend Python) **dan** bisnis (sponsorship, creative economy, brand, pitching).  
-- **Arah sekarang**: predictive control → **data & automation** → **leverage ekonomi** (Web3, AI automation, market scraping).  
-
 **Kekuatan (High / Mid–High):**  
 Engineering/IoT **High** · Analytical/Optimization **High** · Organizing/Leadership **High** · Communication **High** · Business/Monetization **Mid–High (naik)**
 
@@ -21,21 +16,13 @@ Engineering/IoT **High** · Analytical/Optimization **High** · Organizing/Leade
 - 🥇 **Rainmaker** — jago menghubungkan value ke uang & relasi. Track: Chief Sponsor, Head of Entrepreneurship, Minister of Creative Economy, EO, brand.  
 - 🥈 **Builder (Problem-Solver)** — mengubah ide jadi sistem. Dari hardware → ke **predictive/automation/backend**.
 
-> Catatan untuk diri sendiri: fokuskan energi ke **1–2 jalur** yang digas 100% agar positioning makin tajam.
-
 ---
 
-## 🛣️ Lane Mapping (arah saya)
-**1) Tech–Business Bridge (utama)**  
-Role: *Solutions/Business Dev Engineer (IoT/AI/Automation), Technical Account Manager, Venture Builder.*  
-Alasan: paham teknis + senang ngobrol dengan UMKM/perusahaan + insting monetisasi.
-
-**2) Control/Automation/AI Engineer (teknis murni)**  
-Role: *Control/MPC Engineer, Industrial IoT/Automation, Embedded CV/Edge ML.*
-
-**3) Side Projects (alat latihan & income)**  
-- **Brand & Automation Lab**: scraping market (Python + Google APIs), n8n + AI untuk campaign/reporting UMKM.  
-- **Finance Sandbox**: framework riset & script kecil untuk analis data saham/crypto (risk-aware, bukan cepat kaya).
+## 📌 Featured
+- **Smart Charging MPC** — Python MPC + ESP32 orchestrator + scripts.  
+  👉 https://github.com/naufalzayn17/smart-charging-mpc
+- **Web3 Scaffold (learning)** — Next.js + wagmi/viem + Foundry.  
+  👉 (tambahkan link repo saat sudah push)
 
 ---
 
@@ -78,6 +65,11 @@ Brand builder (**Nopharia**) · EO & kolaborasi UMKM · internship calibration e
 - Mempolish **smart-charging-mpc** (requirements, diagram, CI).  
 - Membangun **dApp Web3** dasar (connect wallet, local chain, deploy & interact).  
 - Menyusun layanan kecil **Automation & Market Insight** untuk UMKM/brand.
+
+---
+## 📈 Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=naufalzayn17&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalzayn17&layout=compact)
 
 ---
 
