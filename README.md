@@ -1,10 +1,8 @@
-<div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1&pause=900&center=true&vCenter=true&width=900&lines=Hello!+I%27m+Dzaky+Naufal+Kardiansyah.;Fresh+Graduate+from+Electrical+Engineering+Sebelas+Maret+University.;Welcome+to+My+GitHub!"
-    alt="Hello! I'm Dzaky Naufal Kardiansyah. Fresh Graduate from Electrical Engineering Sebelas Maret University. Welcome to My GitHub!"
-  />
-</div>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:22c55e&height=140&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=32&fontColor=ffffff&fontAlignY=35"/>
+  <br/>
+  <em>Hello! I'm Dzaky Naufal Kardiansyah — Fresh Graduate Electrical Engineering (UNS).</em>
+</p>
 
 <!-- visitor counter -->
 <img src="https://komarev.com/ghpvc/?username=naufalzayn17&label=visitors&color=0e75b6&style=flat" alt="visitors" />
